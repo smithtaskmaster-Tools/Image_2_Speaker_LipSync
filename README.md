@@ -1,4 +1,6 @@
-# BabyRage Podcast Pipeline — Wav2Lip Edition
+# Image 2 Speaker LipSync
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smithtaskmastergmailcom)
 
 Automated AI podcast video generator. Takes a studio photo with two speakers and a podcast audio file, diarizes who speaks when, lip-syncs each speaker using Wav2Lip, and composites the result back onto the original background.
 
@@ -121,6 +123,12 @@ WAV2LIP_DIR=~/my-wav2lip \
 
 ---
 
+## Support
+
+This project is free and open source. The underlying models (Wav2Lip, PyAnnote) are the work of their respective authors — all credit to them. If the pipeline saved you time, a small donation is appreciated but never required.
+
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/smithtaskmastergmailcom)
+
 ## License
 
-MIT — free to use, modify, and distribute. If this saved you time, a donation is appreciated but never required.
+MIT — free to use, modify, and distribute.
