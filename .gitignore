@@ -5,3 +5,5 @@ Input/Audio/Historical/
 Input/Image/Historical/
 *.pyc
 __pycache__/
+.~lock.*
+*.xlsx
