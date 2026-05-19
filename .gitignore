@@ -1,0 +1,7 @@
+Py/work/
+Py/output/
+Input/Audio/Source/
+Input/Audio/Historical/
+Input/Image/Historical/
+*.pyc
+__pycache__/
